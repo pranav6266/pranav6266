@@ -1,9 +1,9 @@
 # 💫 About Me:
-+ I am an AI/ML branch CSE Engineering Student.
-+ I know basics of Python and have delved a bit deep into Java because i liked it.
-+ I know Spring and Springboot framework till JPA, Data Access and Security using JWT Authentication.
-+ I have worked on a basic todo list(a JavaFX application) and a full stack app of "Expense Tracker"<br>with a proper backend structure from SpringBoot and with a JavaFX application for frontend.
-+ I have also worked on an AI project which is a "Realtime handsign to text/speech converter".
++ I am an AI/ML branch CSE Engineering Student👨‍🎓
++ I know basics of Python and have delved a bit deep into Java because i liked it✨
++ I know Spring and Springboot framework till __JPA__, __Data Access__ and __Security using JWT Authentication.__
++ I have worked on a basic __Todo List__(a JavaFX application) and a full stack app of __Expense Tracker__ with a proper backend structure from __SpringBoot__ and with a JavaFX application for frontend.
++ I have also worked on an AI project which is a __Realtime handsign to text/speech converter__.
 
 
 ## 🌐 Socials:
