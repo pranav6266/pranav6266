@@ -1,5 +1,5 @@
 # 💫 About Me:
-i have completed java basics<br>i have completed python basics<br>i know Spring and Springboot framework till <br>JPA, Data Access and Security using JWT Authentication<br>i have worked on a basic todo list and a full stack app of expense tracker<br>with a proper backend structure with a JavaFX application for frontend<br>i have also worked on an AI project which is a "Realtime handsign to text/speech converter"<br>
+I am an AI/ML branch CSE Engineering Student<br>I know basics of Python and have delved a bit deep into Java because i liked it<br>I know Spring and Springboot framework till JPA, Data Access and Security using JWT Authentication<br>I have worked on a basic todo list(a JavaFX application) and a full stack app of "Expense Tracker"<br>with a proper backend structure from SpringBoot and with a JavaFX application for frontend<br>I have also worked on an AI project which is a "Realtime handsign to text/speech converter"<br>
 
 
 ## 🌐 Socials:
