@@ -17,6 +17,8 @@ I also ship real software for real clients, like a temple billing app that has b
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Diabetes Readmission Predictor**](https://github.com/pranav6266/diabetes-readmission-predictor) | 30-day readmission risk from 100k hospital records; ONNX model served from Java | PySpark, scikit-learn, ONNX, Spring Boot, React |
+| [**Personal Expense Tracker**](https://github.com/pranav6266/personal-expense-tracker) | Full-stack app with web and desktop clients, one-command Docker setup | Spring Boot, PostgreSQL, React, JavaFX, Docker |
 | [**Multi-Agent RAG Assistant**](https://github.com/pranav6266/AI-Agents-Final-Capstone) | 8 specialist agents with human-in-the-loop approval (IIT Jammu capstone) | OpenAI Agents SDK, ChromaDB, Streamlit |
 | [**Temple Billing Software**](https://github.com/pranav6266/temple-software) | Offline billing and receipt printing, in production at a temple | Java, JavaFX, H2, ESC/POS |
 | [**n8n Expense Automation**](https://github.com/pranav6266/N8N-Expense-Management-System) | 4-stage workflow that reads receipts with a vision model | n8n, Ollama |
