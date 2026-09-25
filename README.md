@@ -9,7 +9,7 @@ I also ship real software for real clients, like a temple billing app that has b
 - 🧠 **GenAI Intern at IIT Jammu** (Summer 2026): multi-agent RAG and n8n automation
 - 🏆 **1st place, IPR** (Innovative Projects using Raspberry Pi): sign-language-to-speech on a Raspberry Pi
 - ☁️ **AWS Certified** AI Practitioner and Cloud Practitioner
-- 📫 [LinkedIn](https://linkedin.com/in/pranavchandrashekar) · [Email](mailto:pranavchandrashekar5@gmail.com)
+- 🌐 [Portfolio](https://pranavchandrashekar.vercel.app) · 📫 [LinkedIn](https://linkedin.com/in/pranavchandrashekar) · [Email](mailto:pranavchandrashekar5@gmail.com)
 
 ---
 
