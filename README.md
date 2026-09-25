@@ -1,26 +1,52 @@
-# 💫 About Me:
-+ I am an AI/ML branch CSE Engineering Student👨‍🎓
-+ I know basics of Python and have delved a bit deep into Java because i liked it✨
-+ I know Spring and Springboot framework till __JPA__, __Data Access__ and __Security using JWT Authentication.__
-+ I have worked on a basic __Todo List__(a JavaFX application) and a full stack app of __Expense Tracker__ with a proper backend structure from __SpringBoot__ and with a JavaFX application for frontend.
-+ I have also worked on an AI project which is a __Realtime handsign to text/speech converter__.
+<img src="assets/banner.png" alt="Pranav C - I build AI systems that ship" width="100%">
 
+### Hi, I'm Pranav 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavchandrashekar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30800419) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavchandrashekar5@gmail.com) 
+I'm a B.Tech CSE (AI & ML) student at Presidency University, Bengaluru (class of 2027).
+I build AI systems end to end: RAG assistants and multi-agent apps, the APIs behind them, and the UIs people use.
+I also ship real software for real clients, like a temple billing app that has been in daily production use since 2025.
 
-# 💻 Tech Stack:
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
- 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
+- 🧠 **GenAI Intern at IIT Jammu** (Summer 2026): multi-agent RAG and n8n automation
+- 🏆 **1st place, IPR** (Innovative Projects using Raspberry Pi): sign-language-to-speech on a Raspberry Pi
+- ☁️ **AWS Certified** AI Practitioner and Cloud Practitioner
+- 📫 [LinkedIn](https://linkedin.com/in/pranavchandrashekar) · [Email](mailto:pranavchandrashekar5@gmail.com)
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) 
+---
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+### 🚀 Featured projects
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pranav6266&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pranav6266&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav6266&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+| Project | What it is | Stack |
+|---|---|---|
+| [**Multi-Agent RAG Assistant**](https://github.com/pranav6266/AI-Agents-Final-Capstone) | 8 specialist agents with human-in-the-loop approval (IIT Jammu capstone) | OpenAI Agents SDK, ChromaDB, Streamlit |
+| [**Temple Billing Software**](https://github.com/pranav6266/temple-software) | Offline billing and receipt printing, in production at a temple | Java, JavaFX, H2, ESC/POS |
+| [**n8n Expense Automation**](https://github.com/pranav6266/N8N-Expense-Management-System) | 4-stage workflow that reads receipts with a vision model | n8n, Ollama |
+| [**MedExpress**](https://github.com/pranav6266/Med-Express) | Medicine delivery platform with user, agent and admin roles | MongoDB, Express, React, Node.js |
+| [**Hand Sign to Speech**](https://github.com/pranav6266/Realtime-Handsign-to-Audio-Converter) | Real-time ASL recognition with spoken output | MediaPipe, scikit-learn, OpenCV |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🤝 Hackathon team projects
+
+Built as a team with [@VelvetGradient-26](https://github.com/VelvetGradient-26).
+
+| Project | Event | Stack |
+|---|---|---|
+| [**MarisAI**](https://github.com/VelvetGradient-26/MarisAI) | Marine intelligence platform with a 3D globe and an AI ocean assistant, deployed on AWS EC2 | FastAPI, PostGIS, React, MapLibre |
+| [**NariConnect AI**](https://github.com/VelvetGradient-26/NariConnect) | SheLeads 2.0: RAG that matches women to 3,500+ government schemes | FastAPI, Qdrant, MongoDB, React |
+| [**PharmaGuard**](https://github.com/VelvetGradient-26/PharmaGuard) · [live UI](https://pharmaguard-frontend-nine.vercel.app) | RIFT'26: pharmacogenomic risk prediction with explainable AI | FastAPI, Gemini, React |
+| [**FinGuard AI**](https://github.com/VelvetGradient-26/BWT_CodeCorps) · [live](https://bwt-code-corps.vercel.app) | BWT Hackathon: financial safety assistant with OCR and explainable AI | FastAPI, MongoDB, React |
+
+### 🏅 Awards
+
+- 🥇 **1st place**, Innovative Projects using Raspberry Pi (IPR), out of 500+ teams
+- 🥈 **2nd place**, Datathon at Innovatex 4.0, Presidency University
+- Participant: RIFT'26, SheLeads 2.0, BWT Hackathon
+
+### 🛠️ Tech I use
+
+- **AI/ML:** RAG · AI agents · LangChain · OpenAI Agents SDK · Qdrant · ChromaDB · Hugging Face · scikit-learn · PySpark · ONNX
+- **Backend:** Java · Spring Boot · FastAPI · Node.js · Express · MongoDB · PostgreSQL · MySQL
+- **Frontend:** React · TypeScript · Next.js · Tailwind CSS · JavaFX
+- **Cloud & tools:** AWS · Docker · n8n · Git · Linux (Arch + Hyprland)
+
+### 📜 Certifications
+
+AWS Certified AI Practitioner · AWS Certified Cloud Practitioner · IIT Kanpur MERN Full Stack · LangChain Foundations · n8n (Quickstart, 101, 102, 103) · Anthropic (Claude Code in Action, AI Fluency, Agent Skills, Subagents) · Hugging Face (LLM Course, AI Agents)
